@@ -1,0 +1,106 @@
+*
+{
+    font-size: 12px;
+    font-family: Tahoma,Verdana,微软雅黑,新宋体;
+}
+body
+{
+    background: #D2E0F2;
+}
+a
+{
+    color: Black;
+    text-decoration: none;
+}
+a:hover
+{
+    color: Red;
+    text-decoration: underline;
+}
+
+img{
+	border:0;	
+}
+
+.textbox03
+{
+    border: #878787 1px solid;
+    padding: 4px 3px;
+    font: Verdana, Geneva, sans-serif,宋体;
+    line-height: 14px;
+    background-color: #fff;
+    height: auto;
+    font-size: 14px;
+    font-weight: bold;
+    width: 190px;
+}
+
+.txt01
+{
+    font: Verdana, Geneva, sans-serif,宋体;
+    padding: 3px 2px 2px 2px;
+    border-width: 1px;
+    border-color: #ddd;
+    color: #000;
+}
+.txt
+{
+    border: #878787 1px solid;
+    padding: 4px 3px;
+    font: Verdana, Geneva, sans-serif,宋体;
+    line-height: 14px;
+    background-color: #fff;
+    height: auto;
+    font-size: 14px;
+}
+
+#objectUri{
+	margin:5px;
+}
+.editTable{
+	width:100%;	
+}
+.editTable td{
+	border-bottom:#878787 dotted 1px;
+	margin:2px;
+	padding:3px;
+}
+tr.over td {
+   background:#bcd4ec;  
+}
+.linkSave{
+	padding-left:18px;
+    background: url(../js/themes/icons/filesave.png) no-repeat;
+    cursor:hand;
+}
+.linkUndo{
+	padding-left:18px;
+    background: url(../js/themes/icons/undo.png) no-repeat;
+}
+.linkAdd{
+	padding-left:18px;
+    background: url(../js/themes/icons/edit_add.png) no-repeat;
+}
+.linkRemove{
+	padding-left:18px;
+    background: url(../js/themes/icons/edit_remove.png) no-repeat;
+}
+.linkDelete{
+	padding-left:18px;
+    background: url(../js/themes/icons/cancel.png) no-repeat;
+}
+.linkEdit{
+	padding-left:18px;
+    background: url(../js/themes/icons/pencil.png) no-repeat;
+}
+.listEquCls{
+	margin:0;
+	padding:0;
+}
+.listEquCls ul li{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+	
+	

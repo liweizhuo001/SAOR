@@ -1,0 +1,30 @@
+.link { stroke: #94B1D2; stroke-linejoin:bevel;}
+.link_error{
+    stroke:#94B1D2;
+    stroke-linejoin:bevel;
+}
+.nodetext {
+    font: 12px sans-serif;
+    -webkit-user-select:none;
+    -moze-user-select:none;
+    stroke-linejoin:bevel;   
+}
+#container{
+    width:800px;
+    height:600px;
+    border:1px solid gray;
+    border-radius:5px;
+    position:relative;
+    margin:20px;
+}
+circle.shape {
+  
+  stroke: #666;
+  stroke-width: 1.5px;
+}
+
+circle.shapebak {
+  fill: #aaa;
+  stroke: #666;
+  stroke-width: 1.5px;
+}

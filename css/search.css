@@ -1,0 +1,65 @@
+*{
+    font-size:12px;font-family:ËÎÌו,Arial;
+    }
+    body
+    {
+    font:12px;
+    background:#fff
+    }
+    body,p
+    {
+    margin:0;
+    padding:0;
+    list-style:none
+    }
+    #u{
+    background:#ccc;
+    margin:0px;
+    padding:5px 5px 5px 5px;
+    text-align:right
+    }
+    #u a{
+    font:12px;
+    color:rgb(0,0,204);
+    margin:0px 0px;
+    }
+    #inputtext{
+    width:410px;
+    heigth:34px;
+    align:center;
+    font:16px/22px arial;
+    margin:5px 5px 5px 5px;
+
+    outline:medium none;
+    }
+    s_btn{
+    color:#666;
+    width:97px;
+    height:34px;
+    display:inline-block;
+    z-index:0;
+    vertical-align:top;
+    }
+    #soubtn
+    {
+    font-size:12px;
+    font-family:ËÎÌו,Arial;
+    width:80px;
+    heigth:34px;
+    font-size:16px;
+    cursor:pointer;
+    }
+    fieldset{
+    text-align:left;
+    }
+    fsol{
+    text-align:left;
+    }
+    #fs{
+    position:relative;
+    left:0;
+    top:30px;
+    }
+    a:visited{
+    font-color:red;
+    }
