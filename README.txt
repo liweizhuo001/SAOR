@@ -12,7 +12,7 @@ We just provide two ontologies and their alignment for testing demo. The whole d
 Usage:
 1)you need to install the Tomcat 7 or higher version firstly, and copy the SAOR to the folder "webapps" in Tomcat.
 
-b)Open http://localhost:8080/SAOR/.
+b)Open http://localhost:8080/SAOR/ .
 
 c)Select two ontologies and click the select buttons.
 
